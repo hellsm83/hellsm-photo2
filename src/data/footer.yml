@@ -1,21 +1,15 @@
 social_icons:
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-twitter
+    title: Twitter
     url: '#'
-  - title: Facebook
-    icon: fa-facebook
+  - icon: fa-instagram
+    title: Instagram
     url: '#'
-  - title: Instagram
-    icon: fa-instagram
+  - icon: fa-envelope-o
+    title: Email
     url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    url: '#'
-copyright: '&copy; Spectral'
+copyright: '&copy; HS-Photography'
 links:
-  - text: Made with Stackbit
+  - new_window: true
+    text: Made with Stackbit
     url: 'https://www.stackbit.com'
-    new_window: true
